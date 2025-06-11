@@ -4,6 +4,7 @@
 #define ML_SAFE_RANGE SAFE_RANGE
 
 enum custom_keycodes {
+  DRAG_SCROLL = SAFE_RANGE,
   RGB_SLD = ML_SAFE_RANGE,
   ST_MACRO_0,
   ST_MACRO_1,
